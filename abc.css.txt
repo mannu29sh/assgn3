@@ -1,0 +1,32 @@
+body{
+background-color:cornsilk;
+}
+div
+{
+background-color:lightpink;
+margin:0 0 3px o;
+}
+p{
+line height 1.6;
+margin:15px 30px 10px 30px;
+}
+h1{
+background-color:dodggerblue;
+text-align:center;
+margin:15px 30px 10px 30px;
+}
+h2{
+text-align center;
+margin:15px 30px 10px 30px;
+}
+h3{
+margin:15px 30px 10px 30px;
+}
+#name{
+text-decoration-color:pink;
+display: inline-block;
+margin:15px 30px 20px 30px;
+}
+li{
+margin:10px 0;
+}
